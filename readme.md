@@ -1,8 +1,6 @@
 # WP Heading Buttons
 Adding heading buttons (H1, H2, H3, H4, H5, H6) to WordPress post/page visual editor.
 
-![alt text](http://tercan.net/i/wp-heading-buttons-banner-772x250.png "WP Heading Buttons plugin")
-
 ## Description
 WP Heading Buttons WordPress plugin adding heading buttons (H1, H2, H3, H4, H5, H6) to your TinyMCE visual editor.
 
