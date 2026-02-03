@@ -1,0 +1,36 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+*.tmp
+*.bak
+*~
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node / build artifacts (if ever used)
+node_modules/
+/dist/
+/build/
+
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+# Local env
+.env
+.env.*
+
+# Vendor (if added later)
+/vendor/
+
+# PHPUnit (if added later)
+.phpunit.result.cache
+

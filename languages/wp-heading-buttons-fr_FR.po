@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Heading Buttons 1.0\n"
+"POT-Creation-Date: 2026-02-03 00:00+0000\n"
+"PO-Revision-Date: 2026-02-03 00:00+0000\n"
+"Language: fr_FR\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: wp-heading-buttons\n"
+
+#: wp-heading-buttons.php:34
+msgid "Heading %d"
+msgstr "Titre %d"
+
+#: wp-heading-buttons.php:38
+msgid "Heading Levels"
+msgstr "Niveaux de titre"
+
+#: wp-heading-buttons.php:128
+#: wp-heading-buttons.php:129
+#: wp-heading-buttons.php:149
+msgid "WP Heading Buttons"
+msgstr "WP Heading Buttons"
+
+#: wp-heading-buttons.php:150
+msgid "View Changelog"
+msgstr "Voir le journal des modifications"
+
+#: wp-heading-buttons.php:155
+msgid "Visit Documentation"
+msgstr "Consulter la documentation"
+
+#: wp-heading-buttons.php:156
+msgid "Documentation"
+msgstr "Documentation"
+
+#: wp-heading-buttons.php:161
+msgid "Manage heading button visibility and Classic Block behavior here."
+msgstr "Gérez ici la visibilité des boutons de titre et le comportement du bloc classique."
+
+#: wp-heading-buttons.php:166
+msgid "Heading Buttons"
+msgstr "Boutons de titre"
+
+#: wp-heading-buttons.php:167
+msgid "Choose which levels appear in Classic and Block editor toolbars."
+msgstr "Choisissez les niveaux qui apparaissent dans les barres d’outils des éditeurs classique et de blocs."
+
+#: wp-heading-buttons.php:183
+msgid "Classic Block"
+msgstr "Bloc classique"
+
+#: wp-heading-buttons.php:184
+msgid "Control toolbar behavior inside the Classic block while using the Block Editor."
+msgstr "Contrôlez le comportement de la barre d’outils dans le bloc classique lors de l’utilisation de l’éditeur de blocs."
+
+#: wp-heading-buttons.php:192
+msgid "Show heading buttons in the Classic block"
+msgstr "Afficher les boutons de titre dans le bloc classique"
+
+#: wp-heading-buttons.php:196
+msgid "Description / Preview"
+msgstr "Description / Aperçu"
+
+#: wp-heading-buttons.php:197
+msgid "Selected buttons appear like this in Classic and Block editor toolbars."
+msgstr "Les boutons sélectionnés s’affichent ainsi dans les barres d’outils des éditeurs classique et de blocs."
+
+#: wp-heading-buttons.php:200
+msgid "No buttons are currently selected."
+msgstr "Aucun bouton n’est sélectionné actuellement."
+
+#: wp-heading-buttons.php:200
+msgid "WP Heading Buttons is ready. Configure which heading buttons appear in the editor on the settings page."
+msgstr "WP Heading Buttons est prêt. Configurez sur la page des réglages les boutons de titre affichés dans l’éditeur."
+
+#: wp-heading-buttons.php:203
+msgid "Open Settings"
+msgstr "Ouvrir les réglages"
+
+#: wp-heading-buttons.php:206
+msgid "Dismiss"
+msgstr "Fermer"
+msgid "One-click heading buttons (H1-H6) for WordPress Classic Editor and Gutenberg (Block Editor)."
+msgstr "Boutons de titre (H1-H6) en un clic pour l’éditeur classique de WordPress et Gutenberg (éditeur de blocs)."
+

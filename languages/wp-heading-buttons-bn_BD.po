@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Heading Buttons 1.0\n"
+"POT-Creation-Date: 2026-02-03 00:00+0000\n"
+"PO-Revision-Date: 2026-02-03 00:00+0000\n"
+"Language: bn_BD\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: wp-heading-buttons\n"
+
+#: wp-heading-buttons.php:34
+msgid "Heading %d"
+msgstr "শিরোনাম %d"
+
+#: wp-heading-buttons.php:38
+msgid "Heading Levels"
+msgstr "শিরোনাম স্তর"
+
+#: wp-heading-buttons.php:128
+#: wp-heading-buttons.php:129
+#: wp-heading-buttons.php:149
+msgid "WP Heading Buttons"
+msgstr "WP শিরোনাম বোতাম"
+
+#: wp-heading-buttons.php:150
+msgid "View Changelog"
+msgstr "পরিবর্তন তালিকা দেখুন"
+
+#: wp-heading-buttons.php:155
+msgid "Visit Documentation"
+msgstr "ডকুমেন্টেশন দেখুন"
+
+#: wp-heading-buttons.php:156
+msgid "Documentation"
+msgstr "ডকুমেন্টেশন"
+
+#: wp-heading-buttons.php:161
+msgid "Manage heading button visibility and Classic Block behavior here."
+msgstr "এখানে শিরোনাম বোতামের দৃশ্যমানতা এবং ক্লাসিক ব্লকের আচরণ পরিচালনা করুন।"
+
+#: wp-heading-buttons.php:166
+msgid "Heading Buttons"
+msgstr "শিরোনাম বোতামসমূহ"
+
+#: wp-heading-buttons.php:167
+msgid "Choose which levels appear in Classic and Block editor toolbars."
+msgstr "ক্লাসিক এবং ব্লক সম্পাদক টুলবারে কোন স্তরগুলো দেখাবে তা নির্বাচন করুন।"
+
+#: wp-heading-buttons.php:183
+msgid "Classic Block"
+msgstr "ক্লাসিক ব্লক"
+
+#: wp-heading-buttons.php:184
+msgid "Control toolbar behavior inside the Classic block while using the Block Editor."
+msgstr "ব্লক এডিটর ব্যবহার করার সময় ক্লাসিক ব্লকের টুলবার আচরণ নিয়ন্ত্রণ করুন।"
+
+#: wp-heading-buttons.php:192
+msgid "Show heading buttons in the Classic block"
+msgstr "ক্লাসিক ব্লকে শিরোনাম বোতাম দেখান"
+
+#: wp-heading-buttons.php:196
+msgid "Description / Preview"
+msgstr "বর্ণনা / প্রিভিউ"
+
+#: wp-heading-buttons.php:197
+msgid "Selected buttons appear like this in Classic and Block editor toolbars."
+msgstr "নির্বাচিত বোতামগুলো ক্লাসিক এবং ব্লক সম্পাদক টুলবারে এভাবে দেখাবে।"
+
+#: wp-heading-buttons.php:200
+msgid "No buttons are currently selected."
+msgstr "বর্তমানে কোনো বোতাম নির্বাচন করা হয়নি।"
+
+#: wp-heading-buttons.php:200
+msgid "WP Heading Buttons is ready. Configure which heading buttons appear in the editor on the settings page."
+msgstr "WP শিরোনাম বোতাম প্রস্তুত। এডিটরে কোন শিরোনাম বোতামগুলো দেখাবে তা সেটিংস পেজে কনফিগার করুন।"
+
+#: wp-heading-buttons.php:203
+msgid "Open Settings"
+msgstr "সেটিংস খুলুন"
+
+#: wp-heading-buttons.php:206
+msgid "Dismiss"
+msgstr "বন্ধ করুন"
+msgid "One-click heading buttons (H1-H6) for WordPress Classic Editor and Gutenberg (Block Editor)."
+msgstr "WordPress ক্লাসিক এডিটর এবং Gutenberg (ব্লক এডিটর)-এর জন্য এক-ক্লিক হেডিং বাটন (H1-H6)।"
+

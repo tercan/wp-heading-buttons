@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Heading Buttons 1.0\n"
+"POT-Creation-Date: 2026-02-03 00:00+0000\n"
+"PO-Revision-Date: 2026-02-03 00:00+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Codex\n"
+"X-Domain: wp-heading-buttons\n"
+
+#: wp-heading-buttons.php:42
+msgid "Heading %d"
+msgstr ""
+
+#: wp-heading-buttons.php:46
+msgid "Heading Levels"
+msgstr ""
+
+#: wp-heading-buttons.php:140
+#: wp-heading-buttons.php:141
+#: wp-heading-buttons.php:226
+msgid "WP Heading Buttons"
+msgstr ""
+
+#: wp-heading-buttons.php:200
+msgid "WP Heading Buttons is ready. Configure which heading buttons appear in the editor on the settings page."
+msgstr ""
+
+#: wp-heading-buttons.php:203
+msgid "Open Settings"
+msgstr ""
+
+#: wp-heading-buttons.php:206
+msgid "Dismiss"
+msgstr ""
+
+#: wp-heading-buttons.php:227
+msgid "View Changelog"
+msgstr ""
+
+#: wp-heading-buttons.php:232
+msgid "Visit Documentation"
+msgstr ""
+
+#: wp-heading-buttons.php:233
+msgid "Documentation"
+msgstr ""
+
+#: wp-heading-buttons.php:238
+msgid "Manage heading button visibility and Classic Block behavior here."
+msgstr ""
+
+#: wp-heading-buttons.php:243
+msgid "Heading Buttons"
+msgstr ""
+
+#: wp-heading-buttons.php:244
+msgid "Choose which levels appear in Classic and Block editor toolbars."
+msgstr ""
+
+#: wp-heading-buttons.php:260
+msgid "Classic Block"
+msgstr ""
+
+#: wp-heading-buttons.php:261
+msgid "Control toolbar behavior inside the Classic block while using the Block Editor."
+msgstr ""
+
+#: wp-heading-buttons.php:269
+msgid "Show heading buttons in the Classic block"
+msgstr ""
+
+#: wp-heading-buttons.php:273
+msgid "Description / Preview"
+msgstr ""
+
+#: wp-heading-buttons.php:274
+msgid "Selected buttons appear like this in Classic and Block editor toolbars."
+msgstr ""
+
+#: wp-heading-buttons.php:277
+msgid "No buttons are currently selected."
+msgstr ""
+#: wp-heading-buttons.php:5
+msgid "One-click heading buttons (H1-H6) for WordPress Classic Editor and Gutenberg (Block Editor)."
+msgstr ""
+

@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Heading Buttons 1.0\n"
+"POT-Creation-Date: 2026-02-03 00:00+0000\n"
+"PO-Revision-Date: 2026-02-03 16:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: wp-heading-buttons\n"
+
+#: wp-heading-buttons.php:34
+msgid "Heading %d"
+msgstr "Überschrift %d"
+
+#: wp-heading-buttons.php:38
+msgid "Heading Levels"
+msgstr "Überschriftenebenen"
+
+#: wp-heading-buttons.php:128 wp-heading-buttons.php:129
+#: wp-heading-buttons.php:149
+msgid "WP Heading Buttons"
+msgstr "WP Heading Buttons"
+
+#: wp-heading-buttons.php:150
+msgid "View Changelog"
+msgstr "Änderungsprotokoll anzeigen"
+
+#: wp-heading-buttons.php:155
+msgid "Visit Documentation"
+msgstr "Dokumentation besuchen"
+
+#: wp-heading-buttons.php:156
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: wp-heading-buttons.php:161
+msgid "Manage heading button visibility and Classic Block behavior here."
+msgstr "Verwalten Sie hier die Sichtbarkeit der Überschriften-Schaltflächen und das Verhalten des klassischen Blocks."
+
+#: wp-heading-buttons.php:166
+msgid "Heading Buttons"
+msgstr "Überschriften-Schaltflächen"
+
+#: wp-heading-buttons.php:167
+msgid "Choose which levels appear in Classic and Block editor toolbars."
+msgstr "Wählen Sie, welche Ebenen in den Symbolleisten der klassischen und Block-Editoren angezeigt werden."
+
+#: wp-heading-buttons.php:183
+msgid "Classic Block"
+msgstr "Klassischer Block"
+
+#: wp-heading-buttons.php:184
+msgid "Control toolbar behavior inside the Classic block while using the Block Editor."
+msgstr "Steuern Sie das Verhalten der Symbolleiste im klassischen Block, während Sie den Block-Editor verwenden."
+
+#: wp-heading-buttons.php:192
+msgid "Show heading buttons in the Classic block"
+msgstr "Überschriften-Schaltflächen im klassischen Block anzeigen"
+
+#: wp-heading-buttons.php:196
+msgid "Description / Preview"
+msgstr "Beschreibung / Vorschau"
+
+#: wp-heading-buttons.php:197
+msgid "Selected buttons appear like this in Classic and Block editor toolbars."
+msgstr "Ausgewählte Schaltflächen werden so in den Symbolleisten der klassischen und Block-Editoren angezeigt."
+
+#: wp-heading-buttons.php:200
+msgid "No buttons are currently selected."
+msgstr "Derzeit sind keine Buttons ausgewählt."
+
+#: wp-heading-buttons.php:200
+msgid "WP Heading Buttons is ready. Configure which heading buttons appear in the editor on the settings page."
+msgstr "WP Heading Buttons ist bereit. Konfigurieren Sie auf der Einstellungsseite, welche Überschriften-Schaltflächen im Editor erscheinen."
+
+#: wp-heading-buttons.php:203
+msgid "Open Settings"
+msgstr "Einstellungen öffnen"
+
+#: wp-heading-buttons.php:206
+msgid "Dismiss"
+msgstr "Schließen"
+msgid "One-click heading buttons (H1-H6) for WordPress Classic Editor and Gutenberg (Block Editor)."
+msgstr "Ein-Klick-Überschriften-Buttons (H1-H6) für den WordPress Classic Editor und Gutenberg (Block-Editor)."
+

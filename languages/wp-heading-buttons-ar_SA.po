@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Heading Buttons 1.0\n"
+"POT-Creation-Date: 2026-02-03 00:00+0000\n"
+"PO-Revision-Date: 2026-02-03 00:00+0000\n"
+"Language: ar_SA\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Domain: wp-heading-buttons\n"
+
+#: wp-heading-buttons.php:34
+msgid "Heading %d"
+msgstr "عنوان %d"
+
+#: wp-heading-buttons.php:38
+msgid "Heading Levels"
+msgstr "مستويات العناوين"
+
+#: wp-heading-buttons.php:128
+#: wp-heading-buttons.php:129
+#: wp-heading-buttons.php:149
+msgid "WP Heading Buttons"
+msgstr "أزرار العناوين لووردبريس"
+
+#: wp-heading-buttons.php:150
+msgid "View Changelog"
+msgstr "عرض سجل التغييرات"
+
+#: wp-heading-buttons.php:155
+msgid "Visit Documentation"
+msgstr "زيارة التوثيق"
+
+#: wp-heading-buttons.php:156
+msgid "Documentation"
+msgstr "التوثيق"
+
+#: wp-heading-buttons.php:161
+msgid "Manage heading button visibility and Classic Block behavior here."
+msgstr "أدر هنا ظهور أزرار العناوين وسلوك الكتلة الكلاسيكية."
+
+#: wp-heading-buttons.php:166
+msgid "Heading Buttons"
+msgstr "أزرار العناوين"
+
+#: wp-heading-buttons.php:167
+msgid "Choose which levels appear in Classic and Block editor toolbars."
+msgstr "اختر المستويات التي تظهر في أشرطة أدوات المحررين الكلاسيكي ومحرر الكتل."
+
+#: wp-heading-buttons.php:183
+msgid "Classic Block"
+msgstr "الكتلة الكلاسيكية"
+
+#: wp-heading-buttons.php:184
+msgid "Control toolbar behavior inside the Classic block while using the Block Editor."
+msgstr "تحكّم بسلوك شريط الأدوات داخل الكتلة الكلاسيكية عند استخدام محرر الكتل."
+
+#: wp-heading-buttons.php:192
+msgid "Show heading buttons in the Classic block"
+msgstr "إظهار أزرار العناوين داخل الكتلة الكلاسيكية"
+
+#: wp-heading-buttons.php:196
+msgid "Description / Preview"
+msgstr "الوصف / المعاينة"
+
+#: wp-heading-buttons.php:197
+msgid "Selected buttons appear like this in Classic and Block editor toolbars."
+msgstr "تظهر الأزرار المحددة بهذا الشكل في أشرطة أدوات المحررين الكلاسيكي ومحرر الكتل."
+
+#: wp-heading-buttons.php:200
+msgid "No buttons are currently selected."
+msgstr "لا توجد أزرار محددة حاليًا."
+
+#: wp-heading-buttons.php:200
+msgid "WP Heading Buttons is ready. Configure which heading buttons appear in the editor on the settings page."
+msgstr "أزرار العناوين لووردبريس جاهزة. قم بضبط أزرار العناوين التي تظهر في المحرر من صفحة الإعدادات."
+
+#: wp-heading-buttons.php:203
+msgid "Open Settings"
+msgstr "فتح الإعدادات"
+
+#: wp-heading-buttons.php:206
+msgid "Dismiss"
+msgstr "إغلاق"
+msgid "One-click heading buttons (H1-H6) for WordPress Classic Editor and Gutenberg (Block Editor)."
+msgstr "أزرار عناوين (H1-H6) بنقرة واحدة لمحرر ووردبريس الكلاسيكي وغوتنبرغ (محرر الكتل)."
+

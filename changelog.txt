@@ -1,0 +1,21 @@
+= 1.0 (2026-02-03) =
+* Added Gutenberg editor toolbar with heading buttons.
+* Added shared SVG icons for Classic and Block editors; removed PNG sprite.
+* Added settings page for heading levels and Classic Block support (defaults: H2 + H3, enabled).
+* Added active button state for Classic editor and container class hook.
+* Added classic editor CSS hooks and modernized asset loading.
+* Added translations (.po/.mo) and removed legacy TinyMCE language files.
+* Added first-install admin notice linking to settings.
+
+= 0.3 (2015-12-24) =
+* Updated editor_plugin.js and language files for TinyMCE4 compatibility.
+* Added Arabic, German, Italian and French language files.
+* Checked WordPress 4.4 compatibility.
+
+= 0.2 (2013-04-17) =
+* Fixed the problem of self-deactivation.
+* Removed buttons selection settings. All buttons is activate default.
+* Added TinyMCE translation options.
+
+= 0.1 (2013-04-02) =
+* Initial release.

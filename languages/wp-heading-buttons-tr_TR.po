@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Heading Buttons 1.0\n"
+"POT-Creation-Date: 2026-02-03 00:00+0000\n"
+"PO-Revision-Date: 2026-02-03 16:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
+"X-Domain: wp-heading-buttons\n"
+
+#: wp-heading-buttons.php:34
+msgid "Heading %d"
+msgstr "Başlık %d"
+
+#: wp-heading-buttons.php:38
+msgid "Heading Levels"
+msgstr "Başlık Seviyeleri"
+
+#: wp-heading-buttons.php:128 wp-heading-buttons.php:129
+#: wp-heading-buttons.php:149
+msgid "WP Heading Buttons"
+msgstr "WP Başlık Butonları"
+
+#: wp-heading-buttons.php:150
+msgid "View Changelog"
+msgstr "Değişiklik Günlüğünü Görüntüle"
+
+#: wp-heading-buttons.php:155
+msgid "Visit Documentation"
+msgstr "Dokümantasyonu Görüntüle"
+
+#: wp-heading-buttons.php:156
+msgid "Documentation"
+msgstr "Dokümantasyon"
+
+#: wp-heading-buttons.php:161
+msgid "Manage heading button visibility and Classic Block behavior here."
+msgstr "Başlık butonlarının görünürlüğünü ve Klasik Blok davranışını buradan yönetin."
+
+#: wp-heading-buttons.php:166
+msgid "Heading Buttons"
+msgstr "Başlık Butonları"
+
+#: wp-heading-buttons.php:167
+msgid "Choose which levels appear in Classic and Block editor toolbars."
+msgstr "Klasik ve Blok editör araç çubuklarında görünecek seviyeleri seçin."
+
+#: wp-heading-buttons.php:183
+msgid "Classic Block"
+msgstr "Klasik Blok"
+
+#: wp-heading-buttons.php:184
+msgid "Control toolbar behavior inside the Classic block while using the Block Editor."
+msgstr "Blok Editör kullanırken Klasik Blok içindeki araç çubuğu davranışını ayarlayın."
+
+#: wp-heading-buttons.php:192
+msgid "Show heading buttons in the Classic block"
+msgstr "Klasik Blok'ta başlık butonlarını göster"
+
+#: wp-heading-buttons.php:196
+msgid "Description / Preview"
+msgstr "Açıklama / Önizleme"
+
+#: wp-heading-buttons.php:197
+msgid "Selected buttons appear like this in Classic and Block editor toolbars."
+msgstr "Seçilen butonlar Klasik ve Blok editör araç çubuklarında bu şekilde görünür."
+
+#: wp-heading-buttons.php:200
+msgid "No buttons are currently selected."
+msgstr "Şu anda seçili buton yok."
+
+#: wp-heading-buttons.php:200
+msgid "WP Heading Buttons is ready. Configure which heading buttons appear in the editor on the settings page."
+msgstr "WP Heading Buttons hazır. Düzenleyicide hangi başlık butonlarının görüneceğini Ayarlar sayfasından yapılandırın."
+
+#: wp-heading-buttons.php:203
+msgid "Open Settings"
+msgstr "Ayarları Aç"
+
+#: wp-heading-buttons.php:206
+msgid "Dismiss"
+msgstr "Kapat"
+msgid "One-click heading buttons (H1-H6) for WordPress Classic Editor and Gutenberg (Block Editor)."
+msgstr "WordPress Klasik Editör ve Gutenberg (Blok Editör) için tek tıkla başlık butonları (H1-H6)."
+
